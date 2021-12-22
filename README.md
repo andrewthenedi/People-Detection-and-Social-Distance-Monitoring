@@ -1,4 +1,4 @@
-# People-Detection-and-Social-Distance-Monitoring
+# People Detection and Social Distance Monitoring
 
 Objective
 * By delivering an AI-based system to automatically monitor and detect violations of social
