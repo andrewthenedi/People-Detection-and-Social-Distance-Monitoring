@@ -65,3 +65,4 @@ You need to have installed following softwares and libraries in your machine bef
 ## Acknowledgement
 
 * Inter-departmental Final Year/Capstone Project: An Aerial Mask Detection System based on UAV
+* Supervisors: Dr. Li Boyang and Prof. Song Guo.
