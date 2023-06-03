@@ -6,7 +6,7 @@ distance among individuals with any given input image sizes and resolutions, thi
 to aid in the reduction of coronavirus propagation and economic expenses. 
 * In addition, the study attempts to portray a long-term heat-map of the environment based on the combination of collected people detections, movements, and steady-state individuals, and the total number of violations of the social distancing to have a complete set of information.
 
-Project Report: https://drive.google.com/file/d/14FI6AwaF_sT4LrCu1ZxO7NFbnhnyXQuM/view?usp=sharing
+Video Demo: https://www.youtube.com/playlist?list=PL_-sHyLzrZ2N2yWD_kq3QgpdM1YEIGPGa
 
 Model Functionalities
 1. People Detection and Tracking
